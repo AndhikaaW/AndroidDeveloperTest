@@ -12,13 +12,9 @@ Tampilan aplikasi terdiri dari:
 - Fitur pencarian provinsi.  
 - Tombol **Perbarui Data** untuk refresh/memuat data dari API.  
 
-<img src="d0ac039f-4e25-4d00-8290-c2c3b2791e71.png" width="300" />  
-
 ### 2. Daftar Kabupaten/Kota  
 - Menampilkan seluruh kabupaten/kota berdasarkan provinsi yang dipilih.  
 - Fitur pencarian kabupaten/kota.  
-
-<img src="bca672ab-7f60-4d52-8714-049368409fb7.png" width="300" />  
 
 ---
 begitupun seterusnya hingga kecamatan dan desa
